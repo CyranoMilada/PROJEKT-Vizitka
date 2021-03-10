@@ -76,14 +76,14 @@ a {
     margin-top: 30px;
 }
 
-.twitter a:active,
-.twitter a:hover,
-.twitter a:focus {
+a.twitter:active,
+a.twitter:hover,
+a.twitter:focus {
     background-color: #0b7bc1;
 }
 
-.fb a:active,
-.fb a:hover,
-.fb a:focus {
+a.fb:active,
+a.fb:hover,
+a.fb:focus {
     background-color: #2b406e;
 } 
